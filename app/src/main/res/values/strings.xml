@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WindyApp</string>
+    <string name="input_flow_count_label">Input flow count</string>
+    <string name="run_calculate_button">Run calculation</string>
+    <string name="stop_calculate_button">Stop</string>
+</resources>
